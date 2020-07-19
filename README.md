@@ -7,7 +7,7 @@ Doli doit permettre a tout passionné de sécurité informatique de mettre en pl
 ## Etapes prévisionnelles
 1) Création et personnalisation du conteneur kali
 2) Utilisation de Docker-Compose pour démarrer les différents conteneurs de test (Metasploitable2, JuiceShop, Ubuntu)
-3) Utilisation de Vagrant pour demarrer les différentes VM de test (Hackintosh, Android x86, Windows)
+3) Utilisation de Vagrant pour démarrer les différentes VM de test (Hackintosh, Android x86, Windows)
 
 ## Prérequis
 Partie 1 :
@@ -34,4 +34,4 @@ Partie 3 :
 Bientôt
 
 ## License
-Doli est sous licence MIT.
+Doli est sous licence GPL-3.0 License.
