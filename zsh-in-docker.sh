@@ -19,12 +19,12 @@ while getopts ":t:p:f:l:c:" opt; do
         p)
             readonly PLUGINS="${PLUGINS}$OPTARG "
             ;;
-	    l)
+	l)
             readonly LOCALE=$OPTARG
-	        ;;
-	    f)
+	    ;;
+	f)
             readonly FONTS="${FONTS}$OPTARG "
-	        ;;
+	    ;;
         c)
             readonly P10K_CONFIG_FILE=$OPTARG
             ;;
